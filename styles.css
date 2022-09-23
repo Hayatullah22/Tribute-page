@@ -21,8 +21,17 @@ body {
     border: none;
     border-radius: 5px;
     padding: 130px;
+    align-items: center;
+}
+img{
+    display:block;
 }
 
+#image {
+    max-width: 100%;
+    max-height: 80%;
+    
+}
 #main,
 #tribute-info {
     display: flex;
